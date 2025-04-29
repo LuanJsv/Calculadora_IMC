@@ -46,21 +46,21 @@ Após clicar em Calcular, o IMC é apresentado junto da classificação correspo
 ![Apresentação_resultados](./img/resultadoFinal.PNG)
 
 ## 📚 Aprendizados
-Durante o desenvolvimento deste projeto, aprendi e apliquei:
+## Durante o desenvolvimento deste projeto, aprendi e apliquei:
 
-Manipulação do DOM: Uso de querySelector, createElement, appendChild e eventos como addEventListener.
+- **Manipulação do DOM: Uso de querySelector, createElement, appendChild e eventos como addEventListener.**
 
-Validação de inputs: Permitindo apenas números e vírgulas nos campos de entrada, utilizando expressões regulares.
+- **Validação de inputs: Permitindo apenas números e vírgulas nos campos de entrada, utilizando expressões regulares.**
 
-Lógica de Cálculo de IMC: Conversão de valores para número com parseFloat, operações matemáticas, e organização de funções.
+- **Lógica de Cálculo de IMC: Conversão de valores para número com parseFloat, operações matemáticas, e organização de funções.**
 
-Organização de código: Separação clara de HTML, CSS e JavaScript, aplicando boas práticas de legibilidade e manutenção.
+- **Organização de código: Separação clara de HTML, CSS e JavaScript, aplicando boas práticas de legibilidade e manutenção.**
 
-Classes dinâmicas e feedback visual: Mudança de cores de acordo com o resultado (baixo peso, sobrepeso, obesidade, etc.).
+- **Classes dinâmicas e feedback visual: Mudança de cores de acordo com o resultado (baixo peso, sobrepeso, obesidade, etc.).**
 
-Responsividade: Uso de Flexbox para garantir que o layout se adapte a diferentes tamanhos de tela.
+- **Responsividade: Uso de Flexbox para garantir que o layout se adapte a diferentes tamanhos de tela.**
 
-Animações e interatividade simples: Alternância de telas entre o formulário e o resultado sem recarregar a página.
+- **Animações e interatividade simples: Alternância de telas entre o formulário e o resultado sem recarregar a página.**
 
 ## 📢 Contato
 Entre em contato e acompanhe meu trabalho:
