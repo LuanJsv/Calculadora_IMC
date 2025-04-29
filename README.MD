@@ -27,7 +27,7 @@ A aplicação permite ao usuário inserir altura e peso, calcular o IMC automati
 
 
 2. Acesse a pasta do projeto:
-
+  ```bash
 cd Projeto_Calculadora_IMC
 
 3.Abra o arquivo index.html em seu navegador.
@@ -37,8 +37,8 @@ A calculadora de IMC possui um layout moderno e intuitivo.
 Ao abrir o projeto, o usuário encontrará dois campos para inserir sua altura (em metros) e peso (em quilos).
 Após clicar em Calcular, o IMC é apresentado junto da classificação correspondente (como Magreza, Normal, Sobrepeso, etc.), além de uma tabela exibindo todas as faixas de classificação.
 
-![Apresentação_resultados](./img/apresentação.png)
-![Apresentação_resultados](./img/resultado.png)
+![Apresentação_resultados](./img/Apresentação_front.PNG)
+![Apresentação_resultados](./img/resultadoFinal.PNG)
 
 ## 📚 Aprendizados
 Durante o desenvolvimento deste projeto, aprendi e apliquei:
